@@ -18,7 +18,7 @@
     "weekday": "4a.feira"
   },
   {
-    "date": "15-Dec-2021",
+    "date": "15-Dec-2021 16:00",
     "house": "SLB",
     "visitor": "Covilha~",
     "weekday": "4a.feira"
@@ -32,8 +32,14 @@
   {
     "date": "08-Jan-2022",
     "house": "SLB (Liga)",
-    "visitor": "Moreirense",
+    "visitor": "Pac,os de Ferreira",
     "weekday": "sabado"
+  },
+  {
+    "date": "16-Jan-2022",
+    "house": "SLB (Liga)",
+    "visitor": "Moreirense",
+    "weekday": "domingo"
   },
   {
     "date": "30-Jan-2022",
@@ -45,6 +51,18 @@
     "date": "13-Feb-2022",
     "house": "SLB (Liga)",
     "visitor": "Santa Clara",
+    "weekday": "domingo"
+  },
+  {
+    "date": "27-Feb-2022",
+    "house": "SLB (Liga)",
+    "visitor": "Vitoria Sport Club (Guimaraes)",
+    "weekday": "domingo"
+  },
+  {
+    "date": "13-Mar-2022",
+    "house": "SLB (Liga)",
+    "visitor": "Vizela",
     "weekday": "domingo"
   },
   {

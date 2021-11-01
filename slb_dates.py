@@ -5,15 +5,19 @@
 import json
 import datetime
 
+# source: https://www.slbenfica.pt/pt-pt/jogos/calendario
 JOGOS_EM_CASA = (
     ["07-Nov-2021 21:15", "Braga"],
     ["03-Dec-2021 21:15", "Sporting"],
     ["08-Dec-2021 20:00", "Kiev", "champions"],
-    ["15-Dec-2021", "Covilha~", "taÃ§a"],
+    ["15-Dec-2021 16:00", "Covilha~", "taça da liga"],
     ["19-Dec-2021", "Maritimo"],
-    ["08-Jan-2022", "Moreirense"],
+    ["08-Jan-2022", "Pac,os de Ferreira"],
+    ["16-Jan-2022", "Moreirense"],
     ["30-Jan-2022", "Gil Vicente"],
     ["13-Feb-2022", "Santa Clara"],
+    ["27-Feb-2022", "Vitoria Sport Club (Guimaraes)"],
+    ["13-Mar-2022", "Vizela"],
     ["20-Mar-2022", "Estoril"],
     ["10-Apr-2022", "Belenenses"],
     ["24-Apr-2022", "Famalicao"],
