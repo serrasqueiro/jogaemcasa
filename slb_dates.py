@@ -1,3 +1,5 @@
+#-*- coding: ISO-8859-1 -*-
+#
 # SLB dates at home!
 
 import json
@@ -7,7 +9,7 @@ JOGOS_EM_CASA = (
     ["07-Nov-2021 21:15", "Braga"],
     ["03-Dec-2021 21:15", "Sporting"],
     ["08-Dec-2021 20:00", "Kiev", "champions"],
-    ["15-Dec-2021", "Covilha~", "tac,a"],
+    ["15-Dec-2021", "Covilha~", "taça"],
     ["19-Dec-2021", "Maritimo"],
     ["08-Jan-2022", "Moreirense"],
     ["30-Jan-2022", "Gil Vicente"],
@@ -34,25 +36,36 @@ def main():
             full = True
         except ValueError:
             when = strptime(date, "%d-%b-%Y")
-        weekday = when.weekday()
+        weekday = convert_to_pt_weekday(when.weekday())
         data = when.strftime("%a, %d %b %H:%M") if full else when.strftime("%a, %d %b (???)")
         print(data, what, "SLB vs", who)
         item = {
             "date": date,
-            "house": "SLB",
+            "weekday": weekday,
+            "house": "SLB (Liga)" if what.startswith("L") else "SLB",
             "visitor": who,
         }
-        if not what.startswith("L"):
-            del item["house"]
         res.append(item)
-    print(f"::: START\n{json_dumper(res)}\n<<< END")
+    json_string = json_dumper(res)
+    print(f"::: START\n{json_string}\n<<< END")
+    dump_to(open("slb_dates.json", "w", encoding="ascii"), json_string)
 
 def json_dumper(alist:list) -> str:
     a_str = json.dumps(alist, indent=2, sort_keys=True)
     return a_str
 
+def dump_to(outfile, astr):
+    outfile.write(astr)
+
 def strptime(*args):
     return datetime.datetime.strptime(*args)
+
+def convert_to_pt_weekday(wday:int, lang="pt") -> str:
+    if not lang:
+        weekday = when.strftime("%A")
+        return weekday
+    days = ("2a.feira", "3a.feira", "4a.feira", "5a.feira", "6a.feira", "sabado", "domingo",)
+    return days[wday]
 
 if __name__ == "__main__":
     main()

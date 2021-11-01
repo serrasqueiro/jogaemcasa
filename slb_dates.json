@@ -1,0 +1,74 @@
+[
+  {
+    "date": "07-Nov-2021 21:15",
+    "house": "SLB (Liga)",
+    "visitor": "Braga",
+    "weekday": "domingo"
+  },
+  {
+    "date": "03-Dec-2021 21:15",
+    "house": "SLB (Liga)",
+    "visitor": "Sporting",
+    "weekday": "6a.feira"
+  },
+  {
+    "date": "08-Dec-2021 20:00",
+    "house": "SLB",
+    "visitor": "Kiev",
+    "weekday": "4a.feira"
+  },
+  {
+    "date": "15-Dec-2021",
+    "house": "SLB",
+    "visitor": "Covilha~",
+    "weekday": "4a.feira"
+  },
+  {
+    "date": "19-Dec-2021",
+    "house": "SLB (Liga)",
+    "visitor": "Maritimo",
+    "weekday": "domingo"
+  },
+  {
+    "date": "08-Jan-2022",
+    "house": "SLB (Liga)",
+    "visitor": "Moreirense",
+    "weekday": "sabado"
+  },
+  {
+    "date": "30-Jan-2022",
+    "house": "SLB (Liga)",
+    "visitor": "Gil Vicente",
+    "weekday": "domingo"
+  },
+  {
+    "date": "13-Feb-2022",
+    "house": "SLB (Liga)",
+    "visitor": "Santa Clara",
+    "weekday": "domingo"
+  },
+  {
+    "date": "20-Mar-2022",
+    "house": "SLB (Liga)",
+    "visitor": "Estoril",
+    "weekday": "domingo"
+  },
+  {
+    "date": "10-Apr-2022",
+    "house": "SLB (Liga)",
+    "visitor": "Belenenses",
+    "weekday": "domingo"
+  },
+  {
+    "date": "24-Apr-2022",
+    "house": "SLB (Liga)",
+    "visitor": "Famalicao",
+    "weekday": "domingo"
+  },
+  {
+    "date": "08-May-2022",
+    "house": "SLB (Liga)",
+    "visitor": "FC Porto",
+    "weekday": "domingo"
+  }
+]
