@@ -3,7 +3,7 @@
 import json
 import datetime
 
-DATES = (
+JOGOS_EM_CASA = (
     ["07-Nov-2021 21:15", "Braga"],
     ["03-Dec-2021 21:15", "Sporting"],
     ["08-Dec-2021 20:00", "Kiev", "champions"],
@@ -17,6 +17,8 @@ DATES = (
     ["24-Apr-2022", "Famalicao"],
     ["08-May-2022", "FC Porto"],	# los Porkos!
 )
+
+DATES = JOGOS_EM_CASA
 
 def main():
     res = list()
