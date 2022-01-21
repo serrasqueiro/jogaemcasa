@@ -42,16 +42,28 @@
     "weekday": "domingo"
   },
   {
-    "date": "30-Jan-2022",
-    "house": "SLB (Liga)",
-    "visitor": "Gil Vicente",
-    "weekday": "domingo"
+    "date": "25-Jan-2022",
+    "house": "SLB",
+    "visitor": "Boavista",
+    "weekday": "3a.feira"
   },
   {
-    "date": "13-Feb-2022",
+    "date": "?",
+    "house": "SLB (Liga)",
+    "visitor": "Gil Vicente",
+    "weekday": "?"
+  },
+  {
+    "date": "12-Feb-2022",
     "house": "SLB (Liga)",
     "visitor": "Santa Clara",
-    "weekday": "domingo"
+    "weekday": "sabado"
+  },
+  {
+    "date": "23-Feb-2022",
+    "house": "SLB",
+    "visitor": "Ajax",
+    "weekday": "4a.feira"
   },
   {
     "date": "27-Feb-2022",

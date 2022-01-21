@@ -14,8 +14,10 @@ JOGOS_EM_CASA = (
     ["19-Dec-2021", "Maritimo"],
     ["08-Jan-2022", "Pac,os de Ferreira"],
     ["16-Jan-2022", "Moreirense"],
-    ["30-Jan-2022", "Gil Vicente"],
-    ["13-Feb-2022", "Santa Clara"],
+    ["25-Jan-2022", "Boavista", "taça da liga"],
+    ["?", "Gil Vicente"],
+    ["12-Feb-2022", "Santa Clara"],
+    ["23-Feb-2022", "Ajax", "champions"],
     ["27-Feb-2022", "Vitoria Sport Club (Guimaraes)"],
     ["13-Mar-2022", "Vizela"],
     ["20-Mar-2022", "Estoril"],
@@ -40,8 +42,11 @@ def main():
             full = True
         except ValueError:
             when = strptime(date, "%d-%b-%Y")
-        weekday = convert_to_pt_weekday(when.weekday())
-        data = when.strftime("%a, %d %b %H:%M") if full else when.strftime("%a, %d %b (???)")
+        weekday = "?" if when is None else convert_to_pt_weekday(when.weekday())
+        if weekday != "?":
+            data = when.strftime("%a, %d %b %H:%M") if full else when.strftime("%a, %d %b (???)")
+        else:
+            data = "?"
         print(data, what, "SLB vs", who)
         item = {
             "date": date,
@@ -62,6 +67,8 @@ def dump_to(outfile, astr):
     outfile.write(astr)
 
 def strptime(*args):
+    if args[0] == "?":
+        return None
     return datetime.datetime.strptime(*args)
 
 def convert_to_pt_weekday(wday:int, lang="pt") -> str:
