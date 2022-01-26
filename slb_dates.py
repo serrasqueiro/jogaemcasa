@@ -15,7 +15,7 @@ JOGOS_EM_CASA = (
     ["08-Jan-2022", "Pac,os de Ferreira"],
     ["16-Jan-2022", "Moreirense"],
     ["25-Jan-2022", "Boavista", "taça da liga"],
-    ["?", "Gil Vicente"],
+    ["02-Feb-2022", "Gil Vicente"],
     ["12-Feb-2022", "Santa Clara"],
     ["23-Feb-2022", "Ajax", "champions"],
     ["27-Feb-2022", "Vitoria Sport Club (Guimaraes)"],
