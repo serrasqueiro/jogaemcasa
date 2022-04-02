@@ -22,7 +22,7 @@ JOGOS_EM_CASA = (
     ["13-Mar-2022", "Vizela"],
     ["20-Mar-2022 18:00", "Estoril"],
     ["05-Apr-2022 20:00", "Liverpool", "champions"],
-    ["10-Apr-2022", "Belenenses"],
+    ["09-Apr-2022 18:00", "Belenenses"],
     ["25-Apr-2022", "Famalicao"],
     ["08-May-2022", "FC Porto"],	# los Porkos!
 )
