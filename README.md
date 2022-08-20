@@ -13,3 +13,4 @@ Game listing is here
 
 # References
 Original gist was at `https://gist.github.com/serrasqueiro/00aa98ed3a54f348fd5afdee81d8da6f` (superseeded).
+![SLB logo](https://raw.githubusercontent.com/serrasqueiro/jogaemcasa/master/slb-logo.svg)
