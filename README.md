@@ -5,7 +5,7 @@
 To clone this repository, do:
 - `git clone https://github.com/serrasqueiro/jogaemcasa/`
 Game listing is here
-- [(here)](https://github.com/serrasqueiro/jogaemcasa/blob/master/slb_dates.json) games played at home
+- [(here)](https://github.com/serrasqueiro/jogaemcasa/blob/master/slb_dates.json) games played at home - ![Jogos em casa](https://github.com/serrasqueiro/jogaemcasa/blob/master/slb_dates.json)
 
 ## Seasons
 - [(here)](https://github.com/serrasqueiro/jogaemcasa/tree/epoca/2021-22) Season 2021-22
