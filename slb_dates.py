@@ -6,25 +6,25 @@ import json
 import datetime
 
 # source: https://www.slbenfica.pt/pt-pt/jogos/calendario
+# alt source: https://www.zerozero.pt/edition.php?id_edicao=165864
 JOGOS_EM_CASA = (
-    ["07-Nov-2021 21:15", "Braga"],
-    ["03-Dec-2021 21:15", "Sporting"],
-    ["08-Dec-2021 20:00", "Kiev", "champions"],
-    ["15-Dec-2021 16:00", "Covilha~", "taça da liga"],
-    ["19-Dec-2021", "Maritimo"],
-    ["08-Jan-2022", "Pac,os de Ferreira"],
-    ["16-Jan-2022", "Moreirense"],
-    ["25-Jan-2022", "Boavista", "taça da liga"],
-    ["02-Feb-2022", "Gil Vicente"],
-    ["12-Feb-2022", "Santa Clara"],
-    ["23-Feb-2022", "Ajax", "champions"],
-    ["27-Feb-2022", "Vitoria Sport Club (Guimaraes)"],
-    ["13-Mar-2022", "Vizela"],
-    ["20-Mar-2022 18:00", "Estoril"],
-    ["05-Apr-2022 20:00", "Liverpool", "champions"],
-    ["09-Apr-2022 18:00", "Belenenses"],
-    ["25-Apr-2022", "Famalicao"],
-    ["08-May-2022", "FC Porto"],	# los Porkos!
+    ["23-Aug-2022", "Dinamo Kiev", "champions"],
+    ["30-Aug-2022 20:15", "Pac,os de Ferreira"],
+    ["04-Sep-2022", "Vizela"],
+    ["18-Sep-2022", "Maritimo"],
+    ["09-Oct-2022", "Rio Ave"],
+    ["30-Oct-2022", "Chaves"],
+    ["13-Nov-2022", "Gil Vicente"],
+    ["08-Jan-2023", "Portimonense"],
+    ["15-Jan-2023", "Sporting"],
+    ["05-Feb-2023", "Casa Pia"],
+    ["19-Feb-2023", "Boavista"],
+    ["05-Mar-2023", "Famalicao"],
+    ["19-Mar-2023", "Vitoria FC"],
+    ["08-Apr-2023", "FC Porto"],	# los porkos!
+    ["23-Apr-2023", "Estoril"],
+    ["07-May-2023", "Braga"],
+    ["28-May-2023", "Santa Clara"],
 )
 
 DATES = JOGOS_EM_CASA
