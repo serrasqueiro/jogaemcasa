@@ -12,28 +12,40 @@
     "weekday": "3a.feira"
   },
   {
-    "date": "04-Sep-2022",
+    "date": "02-Sep-2022 18:00",
     "house": "SLB (Liga)",
     "visitor": "Vizela",
-    "weekday": "domingo"
+    "weekday": "6a.feira"
   },
   {
-    "date": "18-Sep-2022",
+    "date": "18-Sep-2022 18:00",
     "house": "SLB (Liga)",
     "visitor": "Maritimo",
     "weekday": "domingo"
   },
   {
-    "date": "09-Oct-2022",
-    "house": "SLB (Liga)",
-    "visitor": "Rio Ave",
-    "weekday": "domingo"
+    "date": "05-Oct-2022 20:00",
+    "house": "SLB",
+    "visitor": "PSG",
+    "weekday": "4a.feira"
   },
   {
-    "date": "30-Oct-2022",
+    "date": "08-Oct-2022 18:00",
+    "house": "SLB (Liga)",
+    "visitor": "Rio Ave",
+    "weekday": "sabado"
+  },
+  {
+    "date": "25-Oct-2022",
+    "house": "SLB",
+    "visitor": "Juventus",
+    "weekday": "3a.feira"
+  },
+  {
+    "date": "29-Oct-2022 18:00",
     "house": "SLB (Liga)",
     "visitor": "Chaves",
-    "weekday": "domingo"
+    "weekday": "sabado"
   },
   {
     "date": "13-Nov-2022",
