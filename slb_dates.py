@@ -17,6 +17,7 @@ JOGOS_EM_CASA = (
     ["25-Oct-2022", "Juventus", "champions"],
     ["29-Oct-2022 18:00", "Chaves"],
     ["13-Nov-2022", "Gil Vicente"],
+    ["26-Nov-2022 20:45", "Penafiel", "Tac,a Liga"],
     ["08-Jan-2023", "Portimonense"],
     ["15-Jan-2023", "Sporting"],
     ["05-Feb-2023", "Casa Pia"],
