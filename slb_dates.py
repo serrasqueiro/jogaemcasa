@@ -21,7 +21,7 @@ JOGOS_EM_CASA = (
     ["08-Jan-2023", "Portimonense"],
     ["15-Jan-2023", "Sporting"],
     ["04-Feb-2023", "Casa Pia"],
-    ["19-Feb-2023", "Boavista"],
+    ["20-Feb-2023", "Boavista"],
     ["05-Mar-2023", "Famalicao"],
     ["19-Mar-2023", "Vitoria FC"],
     ["08-Apr-2023", "FC Porto"],	# los porkos!
