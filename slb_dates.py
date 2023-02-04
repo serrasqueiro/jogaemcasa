@@ -20,7 +20,7 @@ JOGOS_EM_CASA = (
     ["26-Nov-2022 20:45", "Penafiel", "Tac,a Liga"],
     ["08-Jan-2023", "Portimonense"],
     ["15-Jan-2023", "Sporting"],
-    ["05-Feb-2023", "Casa Pia"],
+    ["04-Feb-2023", "Casa Pia"],
     ["19-Feb-2023", "Boavista"],
     ["05-Mar-2023", "Famalicao"],
     ["19-Mar-2023", "Vitoria FC"],
