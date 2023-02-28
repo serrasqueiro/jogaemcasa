@@ -52,7 +52,7 @@ def main():
             data = when.strftime("%a, %d %b %H:%M") if full else when.strftime("%a, %d %b (???)")
         else:
             data = "?"
-        print(data, what, "SLB vs", who)
+        #print(data, what, "SLB vs", who)
         item = {
             "date": date,
             "weekday": weekday,
@@ -61,7 +61,7 @@ def main():
         }
         res.append(item)
     json_string = json_dumper(res)
-    print(f"::: START\n{json_string}\n<<< END")
+    #print(f"::: START\n{json_string}\n<<< END")
     dump_to(open("slb_dates.json", "w", encoding="ascii"), json_string)
 
 def json_dumper(alist:list) -> str:
