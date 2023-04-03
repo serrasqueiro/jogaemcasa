@@ -26,7 +26,7 @@ JOGOS_EM_CASA = (
     ["07-Mar-2022 20:00", "Brugge", "champions"],
     ["18-Mar-2023 18:00", "Vitoria FC"],
     ["07-Apr-2023 18:00", "FC Porto"],
-    ["23-Apr-2023", "Estoril"],
+    ["23-Apr-2023 18:00", "Estoril"],
     ["07-May-2023", "Braga"],
     ["28-May-2023", "Santa Clara"],
 )
