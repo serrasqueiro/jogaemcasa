@@ -46,7 +46,7 @@ TITLES = {
     2014: "JJ",
     2015: "RV",
     2016: "RV",
-    2018: "BL",
+    2018: "BL",	# Rui Vitoria saiu apos a 15a. Jornada!
     2022: "RS",
 }
 
