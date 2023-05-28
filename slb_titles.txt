@@ -1,0 +1,38 @@
+#1   1935/36 Lippo Hertzka
+#2   1936/37 Lippo Hertzka
+#3   1937/38 Lippo Hertzka
+#4   1941/42 Janos Biri
+#5   1942/43 Janos Biri
+#6   1944/45 Janos Biri
+#7   1949/50 Ted Smith
+#8   1954/55 Otto Gloria
+#9   1956/57 Otto Gloria
+#10  1959/60 Béla Guttman
+#11  1960/61 Béla Guttman
+#12  1962/63 Fernando Riera
+#13  1963/64 Lajos Czeizer
+#14  1964/65 Elek Schwartz
+#15  1966/67 Fernando Riera
+#16  1967/68 Otto Gloria
+#17  1968/69 Otto Gloria
+#18  1970/71 Jimmy Hagan
+#19  1971/72 Jimmy Hagan
+#20  1972/73 Jimmy Hagan
+#21  1974/75 Milorad Pavic
+#22  1975/76 Mario Wilson
+#23  1976/77 John Mortimore
+#24  1980/81 Lajos Baroti
+#25  1982/83 Eriksson
+#26  1983/84 Eriksson
+#27  1986/87 John Mortimore
+#28  1988/89 Toni
+#29  1990/91 Eriksson
+#30  1993/94 Toni
+#31  2004/05 Trapattoni
+#32  2009/10 Jorge Jesus
+#33  2013/14 Jorge Jesus
+#34  2014/15 Jorge Jesus
+#35  2015/16 Rui Vitoria
+#36  2016/17 Rui Vitoria
+#37  2018/19 Bruno Lage
+#38  2022/23 Roger Smith
