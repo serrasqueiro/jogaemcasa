@@ -1,128 +1,56 @@
 [
   {
-    "date": "23-Aug-2022",
-    "house": "SLB",
-    "visitor": "Dinamo Kiev",
-    "weekday": "3a.feira"
-  },
-  {
-    "date": "30-Aug-2022 20:15",
+    "date": "19-Aug-2023 20:30",
     "house": "SLB (Liga)",
-    "visitor": "Pac,os de Ferreira",
-    "weekday": "3a.feira"
-  },
-  {
-    "date": "02-Sep-2022 18:00",
-    "house": "SLB (Liga)",
-    "visitor": "Vizela",
-    "weekday": "6a.feira"
-  },
-  {
-    "date": "18-Sep-2022 18:00",
-    "house": "SLB (Liga)",
-    "visitor": "Maritimo",
-    "weekday": "domingo"
-  },
-  {
-    "date": "05-Oct-2022 20:00",
-    "house": "SLB",
-    "visitor": "PSG",
-    "weekday": "4a.feira"
-  },
-  {
-    "date": "08-Oct-2022 18:00",
-    "house": "SLB (Liga)",
-    "visitor": "Rio Ave",
+    "visitor": "Estrela da Amadora",
     "weekday": "sabado"
   },
   {
-    "date": "25-Oct-2022",
-    "house": "SLB",
-    "visitor": "Juventus",
-    "weekday": "3a.feira"
-  },
-  {
-    "date": "29-Oct-2022 18:00",
+    "date": "02-Sep-2023 20:30",
     "house": "SLB (Liga)",
-    "visitor": "Chaves",
+    "visitor": "Guimaraes",
     "weekday": "sabado"
   },
   {
-    "date": "13-Nov-2022",
+    "date": "01-Oct-2023",
     "house": "SLB (Liga)",
-    "visitor": "Gil Vicente",
+    "visitor": "FC Porto",
     "weekday": "domingo"
   },
   {
-    "date": "26-Nov-2022 20:45",
-    "house": "SLB",
-    "visitor": "Penafiel",
-    "weekday": "sabado"
-  },
-  {
-    "date": "08-Jan-2023",
+    "date": "29-Oct-2023",
     "house": "SLB (Liga)",
-    "visitor": "Portimonense",
+    "visitor": "Casa Pia AC",
     "weekday": "domingo"
   },
   {
-    "date": "15-Jan-2023",
+    "date": "12-Nov-2023",
     "house": "SLB (Liga)",
     "visitor": "Sporting",
     "weekday": "domingo"
   },
   {
-    "date": "04-Feb-2023",
+    "date": "10-Dec-2023",
     "house": "SLB (Liga)",
-    "visitor": "Casa Pia",
-    "weekday": "sabado"
+    "visitor": "SC Farense",
+    "weekday": "domingo"
   },
   {
-    "date": "20-Feb-2023",
+    "date": "29-Dec-2023",
+    "house": "SLB (Liga)",
+    "visitor": "FC Famalicao",
+    "weekday": "6a.feira"
+  },
+  {
+    "date": "14-Jan-2024",
+    "house": "SLB (Liga)",
+    "visitor": "Rio Ave",
+    "weekday": "domingo"
+  },
+  {
+    "date": "21-Jan-2024",
     "house": "SLB (Liga)",
     "visitor": "Boavista",
-    "weekday": "2a.feira"
-  },
-  {
-    "date": "03-Mar-2023 21:15",
-    "house": "SLB (Liga)",
-    "visitor": "Famalicao",
-    "weekday": "6a.feira"
-  },
-  {
-    "date": "07-Mar-2022 20:00",
-    "house": "SLB",
-    "visitor": "Brugge",
-    "weekday": "2a.feira"
-  },
-  {
-    "date": "18-Mar-2023 18:00",
-    "house": "SLB (Liga)",
-    "visitor": "Vitoria FC",
-    "weekday": "sabado"
-  },
-  {
-    "date": "07-Apr-2023 18:00",
-    "house": "SLB (Liga)",
-    "visitor": "FC Porto",
-    "weekday": "6a.feira"
-  },
-  {
-    "date": "23-Apr-2023",
-    "house": "SLB (Liga)",
-    "visitor": "Estoril",
-    "weekday": "domingo"
-  },
-  {
-    "date": "07-May-2023",
-    "house": "SLB (Liga)",
-    "visitor": "Braga",
-    "weekday": "domingo"
-  },
-  {
-    "date": "28-May-2023",
-    "house": "SLB (Liga)",
-    "visitor": "Santa Clara",
     "weekday": "domingo"
   }
 ]

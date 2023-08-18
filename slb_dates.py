@@ -8,27 +8,15 @@ import datetime
 # source: https://www.slbenfica.pt/pt-pt/jogos/calendario
 # alt source: https://www.zerozero.pt/edition.php?id_edicao=165864
 JOGOS_EM_CASA = (
-    ["23-Aug-2022", "Dinamo Kiev", "champions"],
-    ["30-Aug-2022 20:15", "Pac,os de Ferreira"],
-    ["02-Sep-2022 18:00", "Vizela"],
-    ["18-Sep-2022 18:00", "Maritimo"],
-    ["05-Oct-2022 20:00", "PSG", "champions"],
-    ["08-Oct-2022 18:00", "Rio Ave"],
-    ["25-Oct-2022", "Juventus", "champions"],
-    ["29-Oct-2022 18:00", "Chaves"],
-    ["13-Nov-2022", "Gil Vicente"],
-    ["26-Nov-2022 20:45", "Penafiel", "Tac,a Liga"],
-    ["08-Jan-2023", "Portimonense"],
-    ["15-Jan-2023", "Sporting"],
-    ["04-Feb-2023", "Casa Pia"],
-    ["20-Feb-2023", "Boavista"],
-    ["03-Mar-2023 21:15", "Famalicao"],
-    ["07-Mar-2022 20:00", "Brugge", "champions"],
-    ["18-Mar-2023 18:00", "Vitoria FC"],
-    ["07-Apr-2023 18:00", "FC Porto"],
-    ["23-Apr-2023 18:00", "Estoril"],
-    ["07-May-2023", "Braga"],
-    ["28-May-2023", "Santa Clara"],
+    ["19-Aug-2023 20:30", "Estrela da Amadora"],
+    ["02-Sep-2023 20:30", "Guimaraes"],
+    ["01-Oct-2023", "FC Porto"],
+    ["29-Oct-2023", "Casa Pia AC"],
+    ["12-Nov-2023", "Sporting"],
+    ["10-Dec-2023", "SC Farense"],
+    ["29-Dec-2023", "FC Famalicao"],
+    ["14-Jan-2024", "Rio Ave"],
+    ["21-Jan-2024", "Boavista"],
 )
 
 DATES = JOGOS_EM_CASA
