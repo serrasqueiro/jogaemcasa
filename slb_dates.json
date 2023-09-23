@@ -3,54 +3,140 @@
     "date": "19-Aug-2023 20:30",
     "house": "SLB (Liga)",
     "visitor": "Estrela da Amadora",
-    "weekday": "sabado"
+    "weekday": "sabado",
+    "what": "League"
   },
   {
     "date": "02-Sep-2023 20:30",
     "house": "SLB (Liga)",
     "visitor": "Guimaraes",
-    "weekday": "sabado"
+    "weekday": "sabado",
+    "what": "League"
   },
   {
-    "date": "01-Oct-2023",
+    "date": "29-Sep-2023 20:15",
     "house": "SLB (Liga)",
     "visitor": "FC Porto",
-    "weekday": "domingo"
+    "weekday": "6a.feira",
+    "what": "League"
   },
   {
-    "date": "29-Oct-2023",
+    "date": "03-Oct-2023 20:00",
+    "house": "Inter Milao",
+    "visitor": "SLB",
+    "weekday": "3a.feira",
+    "what": "Champions"
+  },
+  {
+    "date": "07-Oct-2023 20:30",
+    "house": "Estoril Praia",
+    "visitor": "SLB",
+    "weekday": "sabado",
+    "what": "League"
+  },
+  {
+    "date": "24-Oct-2023 20:00",
+    "house": "SLB",
+    "visitor": "Real Sociedad",
+    "weekday": "3a.feira",
+    "what": "Champions"
+  },
+  {
+    "date": "28-Oct-2023 18:00",
     "house": "SLB (Liga)",
     "visitor": "Casa Pia AC",
-    "weekday": "domingo"
+    "weekday": "sabado",
+    "what": "League"
   },
   {
-    "date": "12-Nov-2023",
+    "date": "31-Oct-2023 20:15",
+    "house": "SLB",
+    "visitor": "Arouca",
+    "weekday": "3a.feira",
+    "what": "Tac,A Liga"
+  },
+  {
+    "date": "04-Nov-2023 15:30",
+    "house": "SLB (Liga)",
+    "visitor": "Chaves",
+    "weekday": "sabado",
+    "what": "League"
+  },
+  {
+    "date": "08-Nov-2023 17:45",
+    "house": "Real Sociedad",
+    "visitor": "SLB",
+    "weekday": "4a.feira",
+    "what": "Champions"
+  },
+  {
+    "date": "12-Nov-2023 20:30",
     "house": "SLB (Liga)",
     "visitor": "Sporting",
-    "weekday": "domingo"
+    "weekday": "domingo",
+    "what": "League"
   },
   {
-    "date": "10-Dec-2023",
+    "date": "29-Nov-2023 20:00",
+    "house": "SLB",
+    "visitor": "Inter Milao",
+    "weekday": "4a.feira",
+    "what": "Champions"
+  },
+  {
+    "date": "03-Dec-2023 18:00",
+    "house": "SLB (Liga)",
+    "visitor": "Moreirense",
+    "weekday": "domingo",
+    "what": "League"
+  },
+  {
+    "date": "08-Dec-2023 18:00",
     "house": "SLB (Liga)",
     "visitor": "SC Farense",
-    "weekday": "domingo"
+    "weekday": "6a.feira",
+    "what": "League"
   },
   {
-    "date": "29-Dec-2023",
+    "date": "12-Dec-2023 20:00",
+    "house": "Salzburgo",
+    "visitor": "SLB",
+    "weekday": "3a.feira",
+    "what": "Champions"
+  },
+  {
+    "date": "21-Dec-2023 20:15",
+    "house": "SLB",
+    "visitor": "AVS Futebol SAD",
+    "weekday": "5a.feira",
+    "what": "Tac,A Liga"
+  },
+  {
+    "date": "29-Dec-2023 18:45",
     "house": "SLB (Liga)",
     "visitor": "FC Famalicao",
-    "weekday": "6a.feira"
+    "weekday": "6a.feira",
+    "what": "League"
+  },
+  {
+    "date": "07-Jan-2024",
+    "house": "Arouca",
+    "visitor": "SLB",
+    "weekday": "domingo",
+    "what": "League"
   },
   {
     "date": "14-Jan-2024",
     "house": "SLB (Liga)",
     "visitor": "Rio Ave",
-    "weekday": "domingo"
+    "weekday": "domingo",
+    "what": "League"
   },
   {
     "date": "21-Jan-2024",
     "house": "SLB (Liga)",
     "visitor": "Boavista",
-    "weekday": "domingo"
+    "weekday": "domingo",
+    "what": "League"
   }
 ]
