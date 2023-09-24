@@ -8,7 +8,10 @@
 JOGOS_EM_CASA = (
     ["14-Aug-2023", "Boavista", 1, "Porto"],
     ["19-Aug-2023 20:30", "Estrela da Amadora"],
+    ["25-Aug-2023", "Gil Vicente", 3, "Barcelos"],
     ["02-Sep-2023 20:30", "Guimaraes"],
+    ["15-Sep-2023", "Vizela", 5, "Vizela"],
+    ["24-Sep-2023", "Portimonense", 6, "Portimao"],
     ["29-Sep-2023 20:15", "FC Porto", 7],
     ["03-Oct-2023 20:00", "Inter Milao", "champions", "Milan"],
     ["07-Oct-2023 20:30", "Estoril Praia", None, "Estoril"],

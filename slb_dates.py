@@ -53,15 +53,41 @@ def run_script():
     dump_league(jorns)
     return res, jorns
 
-def dump_league(jorns):
-    for key in sorted(jorns):
+def dump_league(jorns, verbose=0):
+    checks = {
+        "C": [],
+        "F": [],
+    }
+    num_jorn = 34
+    for jorn in range(1, num_jorn + 1):
+        if jorn not in jorns:
+            print(f'Jornada {jorn:>3}: ---')
+            continue
+        key = jorn
         item, where = jorns[key]
         weekday = item["weekday"]
-        rest = "***** casa *****" if where == "(casa)" else where
+        is_home = where == "(casa)"
+        if is_home:
+            rest = "***** casa *****"
+            checks["C"].append(item["visitor"])
+        else:
+            rest = where
+            checks["F"].append(item["house"])
         rest = "  " + rest
         fight = f'{item["house"]} - {item["visitor"]}'
         fight = fight.replace("SLB (Liga)", "Benfica")
-        print(f'Jornada {key:>3}:  {weekday:<.3} {item["date"]:<20} {fight:<28}{rest}')
+        if verbose > 0:
+            pre = f"(Ronda {int(jorn > (num_jorn // 2))+1}) "
+            pre += "C" if "*****" in rest else "F"
+            pre = " " + pre
+        else:
+            pre = ""
+        print(f'Jornada {key:>3}{pre}:  {weekday:<.3} {item["date"]:<20} {fight:<28}{rest}')
+    if verbose <= 0:
+        return True
+    print(checks["C"])
+    print(checks["F"])
+    return True
 
 def item_from(alist):
     tup = alist

@@ -14,10 +14,31 @@
     "what": "League"
   },
   {
+    "date": "25-Aug-2023",
+    "house": "Gil Vicente",
+    "visitor": "SLB",
+    "weekday": "6a.feira",
+    "what": "League"
+  },
+  {
     "date": "02-Sep-2023 20:30",
     "house": "SLB (Liga)",
     "visitor": "Guimaraes",
     "weekday": "sabado",
+    "what": "League"
+  },
+  {
+    "date": "15-Sep-2023",
+    "house": "Vizela",
+    "visitor": "SLB",
+    "weekday": "6a.feira",
+    "what": "League"
+  },
+  {
+    "date": "24-Sep-2023",
+    "house": "Portimonense",
+    "visitor": "SLB",
+    "weekday": "domingo",
     "what": "League"
   },
   {
