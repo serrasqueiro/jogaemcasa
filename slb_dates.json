@@ -152,5 +152,26 @@
     "visitor": "Boavista",
     "weekday": "domingo",
     "what": "League"
+  },
+  {
+    "date": "28-Jan-2024",
+    "house": "Estrela da Amadora",
+    "visitor": "SLB",
+    "weekday": "domingo",
+    "what": "League"
+  },
+  {
+    "date": "04-Feb-2024",
+    "house": "SLB (Liga)",
+    "visitor": "Gil Vicente",
+    "weekday": "domingo",
+    "what": "League"
+  },
+  {
+    "date": "11-Feb-2024",
+    "house": "Guimaraes",
+    "visitor": "SLB",
+    "weekday": "domingo",
+    "what": "League"
   }
 ]

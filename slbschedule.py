@@ -31,4 +31,7 @@ JOGOS_EM_CASA = (
     ["21-Jan-2024", "Boavista", 18],
     ### ... jornada 19 ate 34
     ### https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=175797&fase=178849
+    ["28-Jan-2024", "Estrela da Amadora", 19, "Amadora"],
+    ["04-Feb-2024", "Gil Vicente", 20],
+    ["11-Feb-2024", "Guimaraes", 21, "Guimaraes"],
 )
