@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #-*- coding: ISO-8859-1 -*-
 
 """ SLB dates at home, and visiting! """
@@ -12,6 +13,8 @@ LANG = "pt"
 
 DATES = JOGOS_EM_CASA
 
+DUMP_TO_FILE = "slb_dates.json"	# Comment to not write to (any) json file!
+
 VALID_WHAT = {
     "League": "Liga Portuguesa",
     "champions": "Champeons League",
@@ -20,23 +23,55 @@ VALID_WHAT = {
 }
 
 def main():
+    run_script()
+
+def run_script():
     res = []
     last = None
+    jorn = 0
+    jorns = {}
     for tup in DATES:
-        item, _, when = item_from(tup)
+        item, _, when, a_jorn, where = item_from(tup)
         res.append(item)
         if last is not None:
             diff_days = difference_days(last, when)
             assert diff_days > 1, "difference too small"
         last = when
+        if item["what"] == "League":
+            if a_jorn > 0:
+                jorn = a_jorn
+            elif jorn > 0:
+                jorn += 1
+            if jorn > 0:
+                assert jorn not in jorns, f"Jornada {jorn} repetida ?!"
+                jorns[jorn] = (item, where)
     json_string = json_dumper(res)
     #print(f"::: START\n{json_string}\n<<< END")
-    dump_to(open("slb_dates.json", "w", encoding="ascii"), json_string)
+    if "DUMP_TO_FILE" in globals() and DUMP_TO_FILE:
+        dump_to(open(DUMP_TO_FILE, "w", encoding="ascii"), json_string)
+    print("--" * 20)
+    dump_league(jorns)
+    return res, jorns
 
+def dump_league(jorns):
+    for key in sorted(jorns):
+        item, where = jorns[key]
+        weekday = item["weekday"]
+        rest = "***** casa *****" if where == "(casa)" else where
+        rest = "  " + rest
+        fight = f'{item["house"]} - {item["visitor"]}'
+        fight = fight.replace("SLB (Liga)", "Benfica")
+        print(f'Jornada {key:>3}:  {weekday:<.3} {item["date"]:<20} {fight:<28}{rest}')
 
-def item_from(tup):
+def item_from(alist):
+    tup = alist
+    jorn = 0
     what = "League"
     where = "(casa)"
+    if len(tup) >= 3:
+        if isinstance(tup[2], int):
+            jorn = tup[2]
+            tup[2] = "League"
     if len(tup) == 4:
         date, who, temp_what, where = tup
         if temp_what is not None:
@@ -73,7 +108,7 @@ def item_from(tup):
         "what": what.title(),
     }
     assert what in VALID_WHAT, data + "! " + what
-    return item, data, when
+    return item, data, when, jorn, where
 
 def json_dumper(alist:list) -> str:
     a_str = json.dumps(alist, indent=2, sort_keys=True)
