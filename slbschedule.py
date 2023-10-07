@@ -15,6 +15,7 @@ JOGOS_EM_CASA = (
     ["29-Sep-2023 20:15", "FC Porto", 7],
     ["03-Oct-2023 20:00", "Inter Milao", "champions", "Milan"],
     ["07-Oct-2023 20:30", "Estoril Praia", None, "Estoril"],
+    ["20-Oct-2023 16:30", "SC Lusitania", "Tac,a de Portugal"],
     ["24-Oct-2023 20:00", "Real Sociedad", "champions"],
     ["28-Oct-2023 18:00", "Casa Pia AC"],
     ["31-Oct-2023 20:15", "Arouca", "Tac,a Liga"],

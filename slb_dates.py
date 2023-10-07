@@ -20,6 +20,7 @@ VALID_WHAT = {
     "champions": "Champeons League",
     "europa": "Liga Europa",
     "Tac,a Liga": "Taça da Liga",
+    "Tac,a de Portugal": "Taça de Portugal",
 }
 
 def main():
