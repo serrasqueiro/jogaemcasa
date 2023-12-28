@@ -168,6 +168,13 @@
     "what": "League"
   },
   {
+    "date": "10-Jan-2024 20:45",
+    "house": "SLB",
+    "visitor": "Braga",
+    "weekday": "4a.feira",
+    "what": "Tac,A De Portugal"
+  },
+  {
     "date": "14-Jan-2024",
     "house": "SLB (Liga)",
     "visitor": "Rio Ave",
@@ -175,17 +182,24 @@
     "what": "League"
   },
   {
-    "date": "21-Jan-2024",
+    "date": "19-Jan-2024 20:15",
     "house": "SLB (Liga)",
     "visitor": "Boavista",
-    "weekday": "domingo",
+    "weekday": "6a.feira",
     "what": "League"
   },
   {
-    "date": "28-Jan-2024",
+    "date": "24-Jan-2024 19:45",
+    "house": "SLB",
+    "visitor": "Estoril",
+    "weekday": "4a.feira",
+    "what": "Tac,A Liga"
+  },
+  {
+    "date": "29-Jan-2024",
     "house": "Estrela da Amadora",
     "visitor": "SLB",
-    "weekday": "domingo",
+    "weekday": "2a.feira",
     "what": "League"
   },
   {

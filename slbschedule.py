@@ -30,12 +30,14 @@ JOGOS_EM_CASA = (
     ["21-Dec-2023 20:15", "AVS Futebol SAD", "Tac,a Liga", "Aves"],
     ["29-Dec-2023 18:45", "FC Famalicao"],
     ["07-Jan-2024", "Arouca", 16, "Arouca"],
+    ["10-Jan-2024 20:45", "Braga", "Tac,a de Portugal"],
     ["14-Jan-2024", "Rio Ave", 17],
     ### round-up, 2a. parte:
-    ["21-Jan-2024", "Boavista", 18],
+    ["19-Jan-2024 20:15", "Boavista", 18],
     ### ... jornada 19 ate 34
     ### https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=175797&fase=178849
-    ["28-Jan-2024", "Estrela da Amadora", 19, "Amadora"],
+    ["24-Jan-2024 19:45", "Estoril", "Tac,a Liga"],
+    ["29-Jan-2024", "Estrela da Amadora", 19, "Amadora"],
     ["04-Feb-2024", "Gil Vicente", 20],
     ["11-Feb-2024", "Guimaraes", 21, "Guimaraes"],
 )
