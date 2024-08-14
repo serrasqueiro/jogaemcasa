@@ -3,41 +3,64 @@
 """ slbschedule.py - Sport Lisboa e Benfica, calendario """
 
 # source: https://www.slbenfica.pt/pt-pt/jogos/calendario
-# alt source: https://www.zerozero.pt/edition.php?id_edicao=175797
+# alt source: https://www.zerozero.pt/competicao/liga-portuguesa?jornada_in=1&fase=198039
+#
+# Tabela classificativa:
+#	https://www.zerozero.pt/edition.php?simp=0&id_edicao=187713
 
 JOGOS_EM_CASA = (
-    ["14-Aug-2023", "Boavista", 1, "Porto"],
-    ["19-Aug-2023 20:30", "Estrela da Amadora"],
-    ["25-Aug-2023", "Gil Vicente", 3, "Barcelos"],
-    ["02-Sep-2023 20:30", "Guimaraes"],
-    ["15-Sep-2023", "Vizela", 5, "Vizela"],
-    ["24-Sep-2023", "Portimonense", 6, "Portimao"],
-    ["29-Sep-2023 20:15", "FC Porto", 7],
-    ["03-Oct-2023 20:00", "Inter Milao", "champions", "Milan"],
-    ["07-Oct-2023 20:30", "Estoril Praia", None, "Estoril"],
-    ["20-Oct-2023 16:30", "SC Lusitania", "Tac,a de Portugal"],
-    ["24-Oct-2023 20:00", "Real Sociedad", "champions"],
-    ["28-Oct-2023 18:00", "Casa Pia AC"],
-    ["31-Oct-2023 20:15", "Arouca", "Tac,a Liga"],
-    ["04-Nov-2023 15:30", "Chaves", 10, "Chaves"],
-    ["08-Nov-2023 17:45", "Real Sociedad", "champions", "San Sebastian"],
-    ["12-Nov-2023 20:30", "Sporting"],
-    ["29-Nov-2023 20:00", "Inter Milao", "champions"],
-    ["03-Dec-2023 18:00", "Moreirense", 12, "Moreira de Conegos"],
-    ["08-Dec-2023 18:00", "SC Farense"],
-    ["12-Dec-2023 20:00", "Salzburgo", "champions", "Salzburgo"],
-    ["17-Dec-2023 20:30", "Braga", 14, "Braga"],
-    ["21-Dec-2023 20:15", "AVS Futebol SAD", "Tac,a Liga", "Aves"],
-    ["29-Dec-2023 18:45", "FC Famalicao"],
-    ["07-Jan-2024", "Arouca", 16, "Arouca"],
-    ["10-Jan-2024 20:45", "Braga", "Tac,a de Portugal"],
-    ["14-Jan-2024", "Rio Ave", 17],
-    ### round-up, 2a. parte:
-    ["19-Jan-2024 20:15", "Boavista", 18],
-    ### ... jornada 19 ate 34
-    ### https://www.zerozero.pt/edition.php?jornada_in=19&id_edicao=175797&fase=178849
-    ["24-Jan-2024 19:45", "Estoril", "Tac,a Liga"],
-    ["29-Jan-2024", "Estrela da Amadora", 19, "Amadora"],
-    ["04-Feb-2024", "Gil Vicente", 20],
-    ["11-Feb-2024", "Guimaraes", 21, "Guimaraes"],
+    ["17-Aug-2024 20:30", "Casa Pia", 2],
+    ["24-Aug-2024 20:30", "Estrela da Amadora"],
+    ["30-Aug-2024 20:15", "Moreirense", 4, "Moreira de Conegos"],
+    ["15-Sep-2024", "Santa Clara", 5],
 )
+
+TABELA = (
+    """
+P	J	V	E	D	GM	GS	DG		PC	JC	VC	EC	DC	GMC	GSC		PF	JF	VF	EF	DF	GMF	GSF	
+1	Santa Clara	Santa Clara	3	1	1	0	0	4	1	+3		0	0	0	0	0	0	0		3	1	1	0	0	4	1	a
+2	FC Porto	FC Porto	3	1	1	0	0	3	0	+3		3	1	1	0	0	3	0		0	0	0	0	0	0	0	a
+3	Sporting	Sporting	3	1	1	0	0	3	1	+2		3	1	1	0	0	3	1		0	0	0	0	0	0	0	a
+4	FC Famalicão	FC Famalicão	3	1	1	0	0	2	0	+2		3	1	1	0	0	2	0		0	0	0	0	0	0	0	a
+5	Moreirense	Moreirense	3	1	1	0	0	2	1	+1		0	0	0	0	0	0	0		3	1	1	0	0	2	1	a
+6	Vitória SC	Vitória SC	3	1	1	0	0	1	0	+1		0	0	0	0	0	0	0		3	1	1	0	0	1	0	a
+7	Boavista	Boavista	3	1	1	0	0	1	0	+1		0	0	0	0	0	0	0		3	1	1	0	0	1	0	a
+8	AVS	AVS	1	1	0	1	0	1	1	0		1	1	0	1	0	1	1		0	0	0	0	0	0	0	a
+9	Est. Amadora	Est. Amadora	1	1	0	1	0	1	1	0		0	0	0	0	0	0	0		1	1	0	1	0	1	1	a
+10	Nacional	Nacional	1	1	0	1	0	1	1	0		0	0	0	0	0	0	0		1	1	0	1	0	1	1	a
+11	SC Braga	SC Braga	1	1	0	1	0	1	1	0		1	1	0	1	0	1	1		0	0	0	0	0	0	0	a
+12	Farense	Farense	0	1	0	0	1	1	2	-1		0	1	0	0	1	1	2		0	0	0	0	0	0	0	a
+13	Casa Pia AC	Casa Pia AC	0	1	0	0	1	0	1	-1		0	1	0	0	1	0	1		0	0	0	0	0	0	0	a
+14	FC Arouca	FC Arouca	0	1	0	0	1	0	1	-1		0	1	0	0	1	0	1		0	0	0	0	0	0	0	a
+15	Rio Ave	Rio Ave	0	1	0	0	1	1	3	-2		0	0	0	0	0	0	0		0	1	0	0	1	1	3	a
+16	Benfica	Benfica	0	1	0	0	1	0	2	-2		0	0	0	0	0	0	0		0	1	0	0	1	0	2	a
+17	Estoril Praia	Estoril Praia	0	1	0	0	1	1	4	-3		0	1	0	0	1	1	4		0	0	0	0	0	0	0	a
+18	Gil Vicente	Gil Vicente	0	1	0	0	1	0	3	-3		0	0	0	0	0	0	0		0	1	0	0	1	0	3	a
+"""
+)
+
+SIMPLE_NAMES = {
+    "FC Porto": "Porto",
+    "FC Famalicao": "Famalicao",
+    "Vitoria SC": "Vitoria",
+    "Est. Amadora": "Estrela da Amadora",
+    "Casa Pia AC": "Casa Pia",
+}
+
+def sample(ascii_simpler, astr=None):
+    res = []
+    if astr is None:
+        astr = TABELA
+    tbl = [ala.split("\t") for ala in astr.lstrip().splitlines()]
+    lens = sorted(set([len(ala) for ala in tbl]))
+    assert 0 < len(lens) <= 2, "different lengths!"
+    assert tbl[0][0] == "P", tbl[0][0]
+    for line in tbl[1:]:
+        #print(line[:3])
+        assert line[1] == line[2], line[1]
+        name = line[2]
+        s_name = ascii_simpler(name)
+        if s_name in SIMPLE_NAMES:
+            s_name = SIMPLE_NAMES[s_name]
+        res.append((0, s_name, name, line[3:]))
+    return res, lens[-1] - 3

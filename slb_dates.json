@@ -1,218 +1,29 @@
 [
   {
-    "date": "14-Aug-2023",
-    "house": "Boavista",
-    "visitor": "SLB",
-    "weekday": "2a.feira",
+    "date": "17-Aug-2024 20:30",
+    "house": "SLB (Liga)",
+    "visitor": "Casa Pia",
+    "weekday": "sabado",
     "what": "League"
   },
   {
-    "date": "19-Aug-2023 20:30",
+    "date": "24-Aug-2024 20:30",
     "house": "SLB (Liga)",
     "visitor": "Estrela da Amadora",
     "weekday": "sabado",
     "what": "League"
   },
   {
-    "date": "25-Aug-2023",
-    "house": "Gil Vicente",
-    "visitor": "SLB",
-    "weekday": "6a.feira",
-    "what": "League"
-  },
-  {
-    "date": "02-Sep-2023 20:30",
-    "house": "SLB (Liga)",
-    "visitor": "Guimaraes",
-    "weekday": "sabado",
-    "what": "League"
-  },
-  {
-    "date": "15-Sep-2023",
-    "house": "Vizela",
-    "visitor": "SLB",
-    "weekday": "6a.feira",
-    "what": "League"
-  },
-  {
-    "date": "24-Sep-2023",
-    "house": "Portimonense",
-    "visitor": "SLB",
-    "weekday": "domingo",
-    "what": "League"
-  },
-  {
-    "date": "29-Sep-2023 20:15",
-    "house": "SLB (Liga)",
-    "visitor": "FC Porto",
-    "weekday": "6a.feira",
-    "what": "League"
-  },
-  {
-    "date": "03-Oct-2023 20:00",
-    "house": "Inter Milao",
-    "visitor": "SLB",
-    "weekday": "3a.feira",
-    "what": "Champions"
-  },
-  {
-    "date": "07-Oct-2023 20:30",
-    "house": "Estoril Praia",
-    "visitor": "SLB",
-    "weekday": "sabado",
-    "what": "League"
-  },
-  {
-    "date": "20-Oct-2023 16:30",
-    "house": "SLB",
-    "visitor": "SC Lusitania",
-    "weekday": "6a.feira",
-    "what": "Tac,A De Portugal"
-  },
-  {
-    "date": "24-Oct-2023 20:00",
-    "house": "SLB",
-    "visitor": "Real Sociedad",
-    "weekday": "3a.feira",
-    "what": "Champions"
-  },
-  {
-    "date": "28-Oct-2023 18:00",
-    "house": "SLB (Liga)",
-    "visitor": "Casa Pia AC",
-    "weekday": "sabado",
-    "what": "League"
-  },
-  {
-    "date": "31-Oct-2023 20:15",
-    "house": "SLB",
-    "visitor": "Arouca",
-    "weekday": "3a.feira",
-    "what": "Tac,A Liga"
-  },
-  {
-    "date": "04-Nov-2023 15:30",
-    "house": "Chaves",
-    "visitor": "SLB",
-    "weekday": "sabado",
-    "what": "League"
-  },
-  {
-    "date": "08-Nov-2023 17:45",
-    "house": "Real Sociedad",
-    "visitor": "SLB",
-    "weekday": "4a.feira",
-    "what": "Champions"
-  },
-  {
-    "date": "12-Nov-2023 20:30",
-    "house": "SLB (Liga)",
-    "visitor": "Sporting",
-    "weekday": "domingo",
-    "what": "League"
-  },
-  {
-    "date": "29-Nov-2023 20:00",
-    "house": "SLB",
-    "visitor": "Inter Milao",
-    "weekday": "4a.feira",
-    "what": "Champions"
-  },
-  {
-    "date": "03-Dec-2023 18:00",
+    "date": "30-Aug-2024 20:15",
     "house": "Moreirense",
     "visitor": "SLB",
-    "weekday": "domingo",
-    "what": "League"
-  },
-  {
-    "date": "08-Dec-2023 18:00",
-    "house": "SLB (Liga)",
-    "visitor": "SC Farense",
     "weekday": "6a.feira",
     "what": "League"
   },
   {
-    "date": "12-Dec-2023 20:00",
-    "house": "Salzburgo",
-    "visitor": "SLB",
-    "weekday": "3a.feira",
-    "what": "Champions"
-  },
-  {
-    "date": "17-Dec-2023 20:30",
-    "house": "Braga",
-    "visitor": "SLB",
-    "weekday": "domingo",
-    "what": "League"
-  },
-  {
-    "date": "21-Dec-2023 20:15",
-    "house": "AVS Futebol SAD",
-    "visitor": "SLB",
-    "weekday": "5a.feira",
-    "what": "Tac,A Liga"
-  },
-  {
-    "date": "29-Dec-2023 18:45",
+    "date": "15-Sep-2024",
     "house": "SLB (Liga)",
-    "visitor": "FC Famalicao",
-    "weekday": "6a.feira",
-    "what": "League"
-  },
-  {
-    "date": "07-Jan-2024",
-    "house": "Arouca",
-    "visitor": "SLB",
-    "weekday": "domingo",
-    "what": "League"
-  },
-  {
-    "date": "10-Jan-2024 20:45",
-    "house": "SLB",
-    "visitor": "Braga",
-    "weekday": "4a.feira",
-    "what": "Tac,A De Portugal"
-  },
-  {
-    "date": "14-Jan-2024",
-    "house": "SLB (Liga)",
-    "visitor": "Rio Ave",
-    "weekday": "domingo",
-    "what": "League"
-  },
-  {
-    "date": "19-Jan-2024 20:15",
-    "house": "SLB (Liga)",
-    "visitor": "Boavista",
-    "weekday": "6a.feira",
-    "what": "League"
-  },
-  {
-    "date": "24-Jan-2024 19:45",
-    "house": "SLB",
-    "visitor": "Estoril",
-    "weekday": "4a.feira",
-    "what": "Tac,A Liga"
-  },
-  {
-    "date": "29-Jan-2024",
-    "house": "Estrela da Amadora",
-    "visitor": "SLB",
-    "weekday": "2a.feira",
-    "what": "League"
-  },
-  {
-    "date": "04-Feb-2024",
-    "house": "SLB (Liga)",
-    "visitor": "Gil Vicente",
-    "weekday": "domingo",
-    "what": "League"
-  },
-  {
-    "date": "11-Feb-2024",
-    "house": "Guimaraes",
-    "visitor": "SLB",
+    "visitor": "Santa Clara",
     "weekday": "domingo",
     "what": "League"
   }

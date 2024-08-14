@@ -7,11 +7,12 @@
 
 import json
 import datetime
-from slbschedule import JOGOS_EM_CASA
+import unidecode
+import slbschedule
 
 LANG = "pt"
 
-DATES = JOGOS_EM_CASA
+DATES = slbschedule.JOGOS_EM_CASA
 
 DUMP_TO_FILE = "slb_dates.json"	# Comment to not write to (any) json file!
 
@@ -24,19 +25,22 @@ VALID_WHAT = {
 }
 
 def main():
-    run_script()
+    dct = process_sample()
+    run_script(dct)
 
-def run_script():
+def run_script(dct):
+    assert dct, "No dictionary?"
     res = []
     last = None
     jorn = 0
     jorns = {}
     for tup in DATES:
-        item, _, when, a_jorn, where = item_from(tup)
+        item, _, when, a_jorn, where = item_from(tup, dct)
         res.append(item)
         if last is not None:
             diff_days = difference_days(last, when)
-            assert diff_days > 1, "difference too small"
+            assert diff_days >= 0, f"must be increasing: {tup}"
+            assert diff_days > 1, f"difference too small: {last} then {when}"
         last = when
         if item["what"] == "League":
             if a_jorn > 0:
@@ -90,7 +94,8 @@ def dump_league(jorns, verbose=0):
     print(checks["F"])
     return True
 
-def item_from(alist):
+def item_from(alist, dct, debug=0):
+    mydict = {} if dct is None else dct
     tup = alist
     jorn = 0
     what = "League"
@@ -120,11 +125,15 @@ def item_from(alist):
         data = when.strftime("%a, %d %b %H:%M") if full else when.strftime("%a, %d %b (???)")
     is_liga = what in ("League",)
     if where == "(casa)":
+        x_home = "Benfica"
+        x_visitor = who
         house_str = "SLB" + (" (Liga)" if is_liga else "")
         visitor_str = who
         print(data, what + "!", "SLB vs", who, "; what:", what, "; where:", where)
     else:
         house_str = who
+        x_home = house_str
+        x_visitor = "Benfica"
         visitor_str = "SLB"
         print(data, what + "!", house_str, "vs", visitor_str, "; what:", what, "; where:", where)
     item = {
@@ -135,6 +144,11 @@ def item_from(alist):
         "what": what.title(),
     }
     assert what in VALID_WHAT, data + "! " + what
+    if is_liga:
+        if debug > 0:
+            print("Debug:", alist)
+        assert x_home in dct, f"x_home? {x_home}"
+        assert x_visitor in dct, f"x_visitor? {x_visitor}"
     return item, data, when, jorn, where
 
 def json_dumper(alist:list) -> str:
@@ -163,6 +177,17 @@ def difference_days(t0, t1):
     t_delta = t1 - t0
     #print("t1 - t0:", t1, t0, "; is:", t_delta.days)
     return t_delta.days
+
+def process_sample():
+    """ Returns the dictionary of club names. """
+    dct = {}
+    tup = slbschedule.sample(unidecode.unidecode)
+    news, _ = tup
+    for quad in news:
+        _, s_name, name, line = quad
+        #print(s_name, line)
+        dct[s_name] = name
+    return dct
 
 if __name__ == "__main__":
     main()
