@@ -26,5 +26,82 @@
     "visitor": "Santa Clara",
     "weekday": "domingo",
     "what": "League"
+  },
+  {
+    "date": "02-Oct-2024 20:00",
+    "house": "SLB",
+    "visitor": "Atletico Madrid",
+    "weekday": "4a.feira",
+    "what": "Champions"
+  },
+  {
+    "date": "06-Oct-2024 18:00",
+    "house": "Nacional",
+    "visitor": "SLB",
+    "weekday": "domingo",
+    "what": "League"
+  },
+  {
+    "date": "19-Oct-2024 20:15",
+    "house": "Pevidem SC",
+    "visitor": "SLB",
+    "weekday": "sabado",
+    "what": "Tac,A De Portugal"
+  },
+  {
+    "date": "23-Oct-2024 20:00",
+    "house": "SLB",
+    "visitor": "Feyenoord",
+    "weekday": "4a.feira",
+    "what": "Champions"
+  },
+  {
+    "date": "27-Oct-2024 18:00",
+    "house": "SLB (Liga)",
+    "visitor": "Rio Ave",
+    "weekday": "domingo",
+    "what": "League"
+  },
+  {
+    "date": "30-Oct-2024 20:15",
+    "house": "SLB",
+    "visitor": "Santa Clara",
+    "weekday": "4a.feira",
+    "what": "Tac,A Liga"
+  },
+  {
+    "date": "02-Nov-2024 18:00",
+    "house": "Farense",
+    "visitor": "SLB",
+    "weekday": "sabado",
+    "what": "League"
+  },
+  {
+    "date": "06-Nov-2024 20:00",
+    "house": "Bayern Munique",
+    "visitor": "SLB",
+    "weekday": "4a.feira",
+    "what": "Champions"
+  },
+  {
+    "date": "10-Nov-2024 20:45",
+    "house": "SLB (Liga)",
+    "visitor": "Porto",
+    "weekday": "domingo",
+    "what": "League"
+  },
+  {
+    "date": "27-Nov-2024 20:00",
+    "house": "Monaco",
+    "visitor": "SLB",
+    "weekday": "4a.feira",
+    "what": "Champions"
+  },
+  {
+    "date": "01-Dec-2024 18:00",
+    "house": "FC Arouca",
+    "visitor": "SLB",
+    "weekday": "domingo",
+    "what": "League"
   }
 ]
