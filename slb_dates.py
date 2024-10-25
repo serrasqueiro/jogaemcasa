@@ -141,7 +141,7 @@ def item_from(alist, dct, debug=0):
         "weekday": weekday,
         "house": house_str,
         "visitor": visitor_str,
-        "what": what.title(),
+        "what": what.title().replace(",A ", ",a ").replace(" De ", " de "),
     }
     assert what in VALID_WHAT, data + "! " + what
     if is_liga:

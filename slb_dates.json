@@ -46,7 +46,7 @@
     "house": "Pevidem SC",
     "visitor": "SLB",
     "weekday": "sabado",
-    "what": "Tac,A De Portugal"
+    "what": "Tac,a de Portugal"
   },
   {
     "date": "23-Oct-2024 20:00",
@@ -67,7 +67,7 @@
     "house": "SLB",
     "visitor": "Santa Clara",
     "weekday": "4a.feira",
-    "what": "Tac,A Liga"
+    "what": "Tac,a Liga"
   },
   {
     "date": "02-Nov-2024 18:00",
@@ -89,6 +89,13 @@
     "visitor": "Porto",
     "weekday": "domingo",
     "what": "League"
+  },
+  {
+    "date": "23-Nov-2024 21:45",
+    "house": "SLB",
+    "visitor": "Estrela Amadora",
+    "weekday": "sabado",
+    "what": "Tac,a de Portugal"
   },
   {
     "date": "27-Nov-2024 20:00",

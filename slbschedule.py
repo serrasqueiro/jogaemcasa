@@ -22,6 +22,7 @@ JOGOS_EM_CASA = (
     ["02-Nov-2024 18:00", "Farense", 10, "Faro"],
     ["06-Nov-2024 20:00", "Bayern Munique", "champions", "Munique"],
     ["10-Nov-2024 20:45", "Porto", 11],
+    ["23-Nov-2024 21:45", "Estrela Amadora", "Tac,a de Portugal"],
     ["27-Nov-2024 20:00", "Monaco", "champions", "Monaco"],
     ["01-Dec-2024 18:00", "FC Arouca", 12, "Arouca"],
 )
