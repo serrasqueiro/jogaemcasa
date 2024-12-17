@@ -148,7 +148,7 @@ def item_from(alist, dct, debug=0):
         if debug > 0:
             print("Debug:", alist)
         assert x_home in dct, f"x_home? {x_home}"
-        assert x_visitor in dct, f"x_visitor? {x_visitor}"
+        assert x_visitor in dct, f"x_visitor? {x_visitor}, dct: {sorted(dct)}"
     return item, data, when, jorn, where
 
 def json_dumper(alist:list) -> str:

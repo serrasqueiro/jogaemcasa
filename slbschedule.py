@@ -14,7 +14,6 @@ JOGOS_EM_CASA = (
     ["30-Aug-2024 20:15", "Moreirense", 4, "Moreira de Conegos"],
     ["15-Sep-2024", "Santa Clara", 5],
     ["02-Oct-2024 20:00", "Atletico Madrid", "champions"],
-    ["06-Oct-2024 18:00", "Nacional", 8, "Madeira"],
     ["19-Oct-2024 20:15", "Pevidem SC", "Tac,a de Portugal", "Guimaraes/ Selho"],
     ["23-Oct-2024 20:00", "Feyenoord", "champions"],
     ["27-Oct-2024 18:00", "Rio Ave", 9],
@@ -25,6 +24,17 @@ JOGOS_EM_CASA = (
     ["23-Nov-2024 21:45", "Estrela Amadora", "Tac,a de Portugal"],
     ["27-Nov-2024 20:00", "Monaco", "champions", "Monaco"],
     ["01-Dec-2024 18:00", "FC Arouca", 12, "Arouca"],
+    ["07-Dec-2024", "Vitoria", 13],
+    ["11-Dec-2024 20:00", "Bologna", "champions"],
+    ["15-Dec-2024", "AVS", 14, "Vila das Aves"],
+    ["19-Dec-2024 17:00", "Nacional", 8, "Madeira"],
+    ["23-Dec-2024 18:45", "Estoril Praia", 15],
+    ["29-Dec-2024 20:30", "Sporting", 16, "Lisboa"],
+    ["04-Jan-2025 18:00", "SC Braga", 17],
+    ["08-Jan-2025", "SC Braga", "Tac,a de Portugal", "Leiria"],
+    ["14-Jan-2025 20:15", "Farense", "Tac,a Liga"],
+    ["17-Jan-2025 20:15", "Famalicao", 18],
+    ["21-Jan-2025 20:00", "Barcelona", "champions"],
 )
 
 TABELA = (
