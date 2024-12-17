@@ -35,13 +35,6 @@
     "what": "Champions"
   },
   {
-    "date": "06-Oct-2024 18:00",
-    "house": "Nacional",
-    "visitor": "SLB",
-    "weekday": "domingo",
-    "what": "League"
-  },
-  {
     "date": "19-Oct-2024 20:15",
     "house": "Pevidem SC",
     "visitor": "SLB",
@@ -110,5 +103,82 @@
     "visitor": "SLB",
     "weekday": "domingo",
     "what": "League"
+  },
+  {
+    "date": "07-Dec-2024",
+    "house": "SLB (Liga)",
+    "visitor": "Vitoria",
+    "weekday": "sabado",
+    "what": "League"
+  },
+  {
+    "date": "11-Dec-2024 20:00",
+    "house": "SLB",
+    "visitor": "Bologna",
+    "weekday": "4a.feira",
+    "what": "Champions"
+  },
+  {
+    "date": "15-Dec-2024",
+    "house": "AVS",
+    "visitor": "SLB",
+    "weekday": "domingo",
+    "what": "League"
+  },
+  {
+    "date": "19-Dec-2024 17:00",
+    "house": "Nacional",
+    "visitor": "SLB",
+    "weekday": "5a.feira",
+    "what": "League"
+  },
+  {
+    "date": "23-Dec-2024 18:45",
+    "house": "SLB (Liga)",
+    "visitor": "Estoril Praia",
+    "weekday": "2a.feira",
+    "what": "League"
+  },
+  {
+    "date": "29-Dec-2024 20:30",
+    "house": "Sporting",
+    "visitor": "SLB",
+    "weekday": "domingo",
+    "what": "League"
+  },
+  {
+    "date": "04-Jan-2025 18:00",
+    "house": "SLB (Liga)",
+    "visitor": "SC Braga",
+    "weekday": "sabado",
+    "what": "League"
+  },
+  {
+    "date": "08-Jan-2025",
+    "house": "SC Braga",
+    "visitor": "SLB",
+    "weekday": "4a.feira",
+    "what": "Tac,a de Portugal"
+  },
+  {
+    "date": "14-Jan-2025 20:15",
+    "house": "SLB",
+    "visitor": "Farense",
+    "weekday": "3a.feira",
+    "what": "Tac,a Liga"
+  },
+  {
+    "date": "17-Jan-2025 20:15",
+    "house": "SLB (Liga)",
+    "visitor": "Famalicao",
+    "weekday": "6a.feira",
+    "what": "League"
+  },
+  {
+    "date": "21-Jan-2025 20:00",
+    "house": "SLB",
+    "visitor": "Barcelona",
+    "weekday": "3a.feira",
+    "what": "Champions"
   }
 ]
