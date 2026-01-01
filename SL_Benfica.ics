@@ -1,0 +1,877 @@
+BEGIN:VCALENDAR
+PRODID:-//E-DIARY//E-DIARY 1.0//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:SL Benfica
+X-Built-On-Cache-Miss:true
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio António Coimbra da Mota
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260517T180000Z
+DTEND:20260517T200000Z
+SUMMARY:⚽️ Estoril Praia x SL Benfica | Liga Portugal  - Jornada 34
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:686a7d6296ed780a434e1b2d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga Portugal 25/26 - Jornada 34\n\nDatas e horas sujeitas a al
+ terações. Em caso de alterações\, o calendário irá atualizar automati
+ camente em breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟
+ ️ Bilhetes\nhttps://ecal.ai/f/Vj6kh/3mCGL\n\n🦅 Red Pass\nhttps://ecal.
+ ai/f/Vj6kj/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/Vj6kk/3mCGL\n\n📱
+ SL Benfica Official App\nhttps://ecal.ai/f/Vj6kl/3mCGL\n\n🔥 Sócios Benf
+ ica\nhttps://ecal.ai/f/Vj6km/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal
+ .ai/f/Vj6kn/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/Vj6kp/3mCGL\n\n✈
+ ️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f/Vj6kq/3mCGL\n\nMan
+ age my ECAL\nhttps://ecal.ai/f/Vj6kt/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio do Sport Lisboa e Benfica
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260510T180000Z
+DTEND:20260510T200000Z
+SUMMARY:⚽️ SL Benfica x SC Braga | Liga Portugal  - Jornada 33
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:686a7d6396ed780a434e1b2e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga Portugal 25/26 - Jornada 33\n\nDatas e horas sujeitas a al
+ terações. Em caso de alterações\, o calendário irá atualizar automati
+ camente em breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟
+ ️ Bilhetes\nhttps://ecal.ai/f/Vj6kv/3mCGL\n\n🦅 Red Pass\nhttps://ecal.
+ ai/f/Vj6kw/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/Vj6kx/3mCGL\n\n📱
+ SL Benfica Official App\nhttps://ecal.ai/f/Vj6ky/3mCGL\n\n🔥 Sócios Benf
+ ica\nhttps://ecal.ai/f/Vj6kz/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal
+ .ai/f/Vj6kB/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/Vj6kC/3mCGL\n\n✈
+ ️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f/Vj6kD/3mCGL\n\nMan
+ age my ECAL\nhttps://ecal.ai/f/Vj6kH/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio Municipal de Famalicão
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260503T180000Z
+DTEND:20260503T200000Z
+SUMMARY:⚽️ FC Famalicão x SL Benfica | Liga Portugal  - Jornada 32
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:686a7d6396ed780a434e1b2f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga Portugal 25/26 - Jornada 32\n\nDatas e horas sujeitas a al
+ terações. Em caso de alterações\, o calendário irá atualizar automati
+ camente em breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟
+ ️ Bilhetes\nhttps://ecal.ai/f/Vj6kJ/3mCGL\n\n🦅 Red Pass\nhttps://ecal.
+ ai/f/Vj6kK/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/Vj6kL/3mCGL\n\n📱
+ SL Benfica Official App\nhttps://ecal.ai/f/Vj6kM/3mCGL\n\n🔥 Sócios Benf
+ ica\nhttps://ecal.ai/f/Vj6kN/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal
+ .ai/f/Vj6kP/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/Vj6kQ/3mCGL\n\n✈
+ ️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f/Vj6kR/3mCGL\n\nMan
+ age my ECAL\nhttps://ecal.ai/f/Vj6kV/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio do Sport Lisboa e Benfica
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260426T180000Z
+DTEND:20260426T200000Z
+SUMMARY:⚽️ SL Benfica x Moreirense FC | Liga Portugal  - Jornada 31
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:686a7d6396ed780a434e1b30
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga Portugal 25/26 - Jornada 31\n\nDatas e horas sujeitas a al
+ terações. Em caso de alterações\, o calendário irá atualizar automati
+ camente em breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟
+ ️ Bilhetes\nhttps://ecal.ai/f/Vj6kW/3mCGL\n\n🦅 Red Pass\nhttps://ecal.
+ ai/f/Vj6kX/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/Vj6kY/3mCGL\n\n📱
+ SL Benfica Official App\nhttps://ecal.ai/f/Vj6kZ/3mCGL\n\n🔥 Sócios Benf
+ ica\nhttps://ecal.ai/f/Vj6l1/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal
+ .ai/f/Vj6l2/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/Vj6l3/3mCGL\n\n✈
+ ️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f/Vj6l6/3mCGL\n\nMan
+ age my ECAL\nhttps://ecal.ai/f/Vj6lb/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio José Alvalade
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260419T180000Z
+DTEND:20260419T200000Z
+SUMMARY:⚽️ Sporting CP x SL Benfica | Liga Portugal  - Jornada 30
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:686a7d6396ed780a434e1b31
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga Portugal 25/26 - Jornada 30\n\nDatas e horas sujeitas a al
+ terações. Em caso de alterações\, o calendário irá atualizar automati
+ camente em breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟
+ ️ Bilhetes\nhttps://ecal.ai/f/Vj6lc/3mCGL\n\n🦅 Red Pass\nhttps://ecal.
+ ai/f/Vj6ld/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/Vj6lf/3mCGL\n\n📱
+ SL Benfica Official App\nhttps://ecal.ai/f/Vj6lg/3mCGL\n\n🔥 Sócios Benf
+ ica\nhttps://ecal.ai/f/Vj6lh/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal
+ .ai/f/Vj6lj/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/Vj6lk/3mCGL\n\n✈
+ ️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f/Vj6ll/3mCGL\n\nMan
+ age my ECAL\nhttps://ecal.ai/f/Vj6lp/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio do Sport Lisboa e Benfica
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260412T180000Z
+DTEND:20260412T200000Z
+SUMMARY:⚽️ SL Benfica x CD Nacional | Liga Portugal  - Jornada 29
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:686a7d6396ed780a434e1b32
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga Portugal 25/26 - Jornada 29\n\nDatas e horas sujeitas a al
+ terações. Em caso de alterações\, o calendário irá atualizar automati
+ camente em breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟
+ ️ Bilhetes\nhttps://ecal.ai/f/Vj6lq/3mCGL\n\n🦅 Red Pass\nhttps://ecal.
+ ai/f/Vj6lr/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/Vj6ls/3mCGL\n\n📱
+ SL Benfica Official App\nhttps://ecal.ai/f/Vj6lt/3mCGL\n\n🔥 Sócios Benf
+ ica\nhttps://ecal.ai/f/Vj6lv/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal
+ .ai/f/Vj6lx/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/Vj6lz/3mCGL\n\n✈
+ ️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f/Vj6lB/3mCGL\n\nMan
+ age my ECAL\nhttps://ecal.ai/f/Vj6lG/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio Municipal de Rio Maior
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260404T180000Z
+DTEND:20260404T200000Z
+SUMMARY:⚽️ Casa Pia AC x SL Benfica | Liga Portugal  - Jornada 28
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:686a7d6396ed780a434e1b33
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga Portugal 25/26 - Jornada 28\n\nDatas e horas sujeitas a al
+ terações. Em caso de alterações\, o calendário irá atualizar automati
+ camente em breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟
+ ️ Bilhetes\nhttps://ecal.ai/f/Vj6lH/3mCGL\n\n🦅 Red Pass\nhttps://ecal.
+ ai/f/Vj6lJ/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/Vj6lK/3mCGL\n\n📱
+ SL Benfica Official App\nhttps://ecal.ai/f/Vj6lL/3mCGL\n\n🔥 Sócios Benf
+ ica\nhttps://ecal.ai/f/Vj6lM/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal
+ .ai/f/Vj6lN/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/Vj6lP/3mCGL\n\n✈
+ ️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f/Vj6lQ/3mCGL\n\nMan
+ age my ECAL\nhttps://ecal.ai/f/Vj6lT/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio do Sport Lisboa e Benfica
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260322T180000Z
+DTEND:20260322T200000Z
+SUMMARY:⚽️ SL Benfica x Vitória SC | Liga Portugal  - Jornada 27
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:686a7d6396ed780a434e1b34
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga Portugal 25/26 - Jornada 27\n\nDatas e horas sujeitas a al
+ terações. Em caso de alterações\, o calendário irá atualizar automati
+ camente em breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟
+ ️ Bilhetes\nhttps://ecal.ai/f/Vj6lV/3mCGL\n\n🦅 Red Pass\nhttps://ecal.
+ ai/f/Vj6lW/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/Vj6lX/3mCGL\n\n📱
+ SL Benfica Official App\nhttps://ecal.ai/f/Vj6lY/3mCGL\n\n🔥 Sócios Benf
+ ica\nhttps://ecal.ai/f/Vj6lZ/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal
+ .ai/f/Vj6m1/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/Vj6m2/3mCGL\n\n✈
+ ️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f/Vj6m3/3mCGL\n\nMan
+ age my ECAL\nhttps://ecal.ai/f/Vj6m6/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio Municipal de Arouca
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260315T180000Z
+DTEND:20260315T200000Z
+SUMMARY:⚽️ FC Arouca x SL Benfica | Liga Portugal  - Jornada 26
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:686a7d6396ed780a434e1b35
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga Portugal 25/26 - Jornada 26\n\nDatas e horas sujeitas a al
+ terações. Em caso de alterações\, o calendário irá atualizar automati
+ camente em breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟
+ ️ Bilhetes\nhttps://ecal.ai/f/Vj6m7/3mCGL\n\n🦅 Red Pass\nhttps://ecal.
+ ai/f/Vj6m8/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/Vj6m9/3mCGL\n\n📱
+ SL Benfica Official App\nhttps://ecal.ai/f/Vj6mb/3mCGL\n\n🔥 Sócios Benf
+ ica\nhttps://ecal.ai/f/Vj6mc/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal
+ .ai/f/Vj6md/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/Vj6mf/3mCGL\n\n✈
+ ️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f/Vj6mg/3mCGL\n\nMan
+ age my ECAL\nhttps://ecal.ai/f/Vj6mk/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio do Sport Lisboa e Benfica
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260308T180000Z
+DTEND:20260308T200000Z
+SUMMARY:⚽️ SL Benfica x FC Porto | Liga Portugal  - Jornada 25
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:686a7d6396ed780a434e1b36
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga Portugal 25/26 - Jornada 25\n\nDatas e horas sujeitas a al
+ terações. Em caso de alterações\, o calendário irá atualizar automati
+ camente em breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟
+ ️ Bilhetes\nhttps://ecal.ai/f/Vj6ml/3mCGL\n\n🦅 Red Pass\nhttps://ecal.
+ ai/f/Vj6mm/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/Vj6mn/3mCGL\n\n📱
+ SL Benfica Official App\nhttps://ecal.ai/f/Vj6mp/3mCGL\n\n🔥 Sócios Benf
+ ica\nhttps://ecal.ai/f/Vj6mq/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal
+ .ai/f/Vj6mr/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/Vj6ms/3mCGL\n\n✈
+ ️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f/Vj6mt/3mCGL\n\nMan
+ age my ECAL\nhttps://ecal.ai/f/Vj6mx/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio Cidade de Barcelos
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260301T180000Z
+DTEND:20260301T200000Z
+SUMMARY:⚽️ Gil Vicente FC x SL Benfica | Liga Portugal  - Jornada 24
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:686a7d6396ed780a434e1b37
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga Portugal 25/26 - Jornada 24\n\nDatas e horas sujeitas a al
+ terações. Em caso de alterações\, o calendário irá atualizar automati
+ camente em breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟
+ ️ Bilhetes\nhttps://ecal.ai/f/Vj6my/3mCGL\n\n🦅 Red Pass\nhttps://ecal.
+ ai/f/Vj6mz/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/Vj6mB/3mCGL\n\n📱
+ SL Benfica Official App\nhttps://ecal.ai/f/Vj6mC/3mCGL\n\n🔥 Sócios Benf
+ ica\nhttps://ecal.ai/f/Vj6mD/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal
+ .ai/f/Vj6mF/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/Vj6mG/3mCGL\n\n✈
+ ️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f/Vj6mH/3mCGL\n\nMan
+ age my ECAL\nhttps://ecal.ai/f/Vj6mL/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio do Sport Lisboa e Benfica
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260222T180000Z
+DTEND:20260222T200000Z
+SUMMARY:⚽️ SL Benfica x AVS Futebol SAD | Liga Portugal  - Jornada 23
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:686a7d6396ed780a434e1b38
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga Portugal 25/26 - Jornada 23\n\nDatas e horas sujeitas a al
+ terações. Em caso de alterações\, o calendário irá atualizar automati
+ camente em breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟
+ ️ Bilhetes\nhttps://ecal.ai/f/Vj6mM/3mCGL\n\n🦅 Red Pass\nhttps://ecal.
+ ai/f/Vj6mN/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/Vj6mP/3mCGL\n\n📱
+ SL Benfica Official App\nhttps://ecal.ai/f/Vj6mQ/3mCGL\n\n🔥 Sócios Benf
+ ica\nhttps://ecal.ai/f/Vj6mR/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal
+ .ai/f/Vj6mS/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/Vj6mT/3mCGL\n\n✈
+ ️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f/Vj6mV/3mCGL\n\nMan
+ age my ECAL\nhttps://ecal.ai/f/Vj6mY/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio de Sao Miguel
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260215T180000Z
+DTEND:20260215T200000Z
+SUMMARY:⚽️ Santa Clara x SL Benfica | Liga Portugal  - Jornada 22
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:686a7d6396ed780a434e1b39
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga Portugal 25/26 - Jornada 22\n\nDatas e horas sujeitas a al
+ terações. Em caso de alterações\, o calendário irá atualizar automati
+ camente em breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟
+ ️ Bilhetes\nhttps://ecal.ai/f/Vj6mZ/3mCGL\n\n🦅 Red Pass\nhttps://ecal.
+ ai/f/Vj6n1/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/Vj6n2/3mCGL\n\n📱
+ SL Benfica Official App\nhttps://ecal.ai/f/Vj6n3/3mCGL\n\n🔥 Sócios Benf
+ ica\nhttps://ecal.ai/f/Vj6n4/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal
+ .ai/f/Vj6n5/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/Vj6n6/3mCGL\n\n✈
+ ️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f/Vj6n7/3mCGL\n\nMan
+ age my ECAL\nhttps://ecal.ai/f/Vj6nb/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio do Sport Lisboa e Benfica
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260208T180000Z
+DTEND:20260208T200000Z
+SUMMARY:⚽️ SL Benfica x FC Alverca | Liga Portugal  - Jornada 21
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:686a7d6396ed780a434e1b3a
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga Portugal 25/26 - Jornada 21\n\nDatas e horas sujeitas a al
+ terações. Em caso de alterações\, o calendário irá atualizar automati
+ camente em breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟
+ ️ Bilhetes\nhttps://ecal.ai/f/Vj6nc/3mCGL\n\n🦅 Red Pass\nhttps://ecal.
+ ai/f/Vj6nd/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/Vj6nf/3mCGL\n\n📱
+ SL Benfica Official App\nhttps://ecal.ai/f/Vj6ng/3mCGL\n\n🔥 Sócios Benf
+ ica\nhttps://ecal.ai/f/Vj6nh/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal
+ .ai/f/Vj6nj/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/Vj6nk/3mCGL\n\n✈
+ ️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f/Vj6nl/3mCGL\n\nMan
+ age my ECAL\nhttps://ecal.ai/f/Vj6np/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio João Cardoso
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260201T180000Z
+DTEND:20260201T200000Z
+SUMMARY:⚽️ CD Tondela x SL Benfica | Liga Portugal  - Jornada 20
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:686a7d6396ed780a434e1b3b
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga Portugal 25/26 - Jornada 20\n\nDatas e horas sujeitas a al
+ terações. Em caso de alterações\, o calendário irá atualizar automati
+ camente em breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟
+ ️ Bilhetes\nhttps://ecal.ai/f/Vj6nq/3mCGL\n\n🦅 Red Pass\nhttps://ecal.
+ ai/f/Vj6nr/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/Vj6ns/3mCGL\n\n📱
+ SL Benfica Official App\nhttps://ecal.ai/f/Vj6nt/3mCGL\n\n🔥 Sócios Benf
+ ica\nhttps://ecal.ai/f/Vj6nC/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal
+ .ai/f/Vj6nD/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/Vj6nF/3mCGL\n\n✈
+ ️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f/Vj6nG/3mCGL\n\nMan
+ age my ECAL\nhttps://ecal.ai/f/Vj6nK/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio do Sport Lisboa e Benfica
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+SUMMARY:⚽️ SL Benfica x Real Madrid CF | Liga dos Campeões da UEFA  - 
+ Jornada 8
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:68b2ffe696ed781ad238ee0c
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga dos Campeões da UEFA 25/26 - Jornada 8\n\nDatas e horas s
+ ujeitas a alterações. Em caso de alterações\, o calendário irá atuali
+ zar automaticamente em breve. Com o apoio do Patrocinador Oficial\, Emirate
+ s.\n\n🎟️ Bilhetes\nhttps://ecal.ai/f/24bKnl/3mCGL\n\n🦅 Red Pass\nht
+ tps://ecal.ai/f/24bKnm/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/24bKnp/
+ 3mCGL\n\n📱SL Benfica Official App\nhttps://ecal.ai/f/24bKnr/3mCGL\n\n
+ 🔥 Sócios Benfica\nhttps://ecal.ai/f/24bKnt/3mCGL\n\n💳 Adeptos SL Ben
+ fica\nhttps://ecal.ai/f/24bKnv/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/
+ 24bKnw/3mCGL\n\n✈️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f
+ /24bKnx/3mCGL\n\nManage my ECAL\nhttps://ecal.ai/f/24bKnB/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio do Sport Lisboa e Benfica
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260125T180000Z
+DTEND:20260125T200000Z
+SUMMARY:⚽️ SL Benfica x CF Estrela Amadora | Liga Portugal  - Jornada 1
+ 9
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:686a7d6396ed780a434e1b3c
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga Portugal 25/26 - Jornada 19\n\nDatas e horas sujeitas a al
+ terações. Em caso de alterações\, o calendário irá atualizar automati
+ camente em breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟
+ ️ Bilhetes\nhttps://ecal.ai/f/Vj6nL/3mCGL\n\n🦅 Red Pass\nhttps://ecal.
+ ai/f/Vj6nM/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/Vj6nN/3mCGL\n\n📱
+ SL Benfica Official App\nhttps://ecal.ai/f/Vj6nP/3mCGL\n\n🔥 Sócios Benf
+ ica\nhttps://ecal.ai/f/Vj6nQ/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal
+ .ai/f/Vj6nR/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/Vj6nS/3mCGL\n\n✈
+ ️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f/Vj6nT/3mCGL\n\nMan
+ age my ECAL\nhttps://ecal.ai/f/Vj6nX/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio Allianz
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+SUMMARY:⚽️ Juventus FC x SL Benfica | Liga dos Campeões da UEFA  - Jor
+ nada 7
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:68b2ffe696ed781ad238ee0d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga dos Campeões da UEFA 25/26 - Jornada 7\n\nDatas e horas s
+ ujeitas a alterações. Em caso de alterações\, o calendário irá atuali
+ zar automaticamente em breve. Com o apoio do Patrocinador Oficial\, Emirate
+ s.\n\n🎟️ Bilhetes\nhttps://ecal.ai/f/24bKnC/3mCGL\n\n🦅 Red Pass\nht
+ tps://ecal.ai/f/24bKnD/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/24bKnF/
+ 3mCGL\n\n📱SL Benfica Official App\nhttps://ecal.ai/f/24bKnG/3mCGL\n\n
+ 🔥 Sócios Benfica\nhttps://ecal.ai/f/24bKnH/3mCGL\n\n💳 Adeptos SL Ben
+ fica\nhttps://ecal.ai/f/24bKnJ/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/
+ 24bKnK/3mCGL\n\n✈️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f
+ /24bKnL/3mCGL\n\nManage my ECAL\nhttps://ecal.ai/f/24bKnR/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio dos Arcos
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260117T203000Z
+DTEND:20260117T223000Z
+SUMMARY:⚽️ Rio Ave FC x SL Benfica | Liga Portugal  - Jornada 18
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:686a7d6396ed780a434e1b3d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga Portugal 25/26 - Jornada 18\n\nDatas e horas sujeitas a al
+ terações. Em caso de alterações\, o calendário irá atualizar automati
+ camente em breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟
+ ️ Bilhetes\nhttps://ecal.ai/f/Vj6nY/3mCGL\n\n🦅 Red Pass\nhttps://ecal.
+ ai/f/Vj6nZ/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/Vj6p1/3mCGL\n\n📱
+ SL Benfica Official App\nhttps://ecal.ai/f/Vj6p2/3mCGL\n\n🔥 Sócios Benf
+ ica\nhttps://ecal.ai/f/Vj6p3/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal
+ .ai/f/Vj6p4/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/Vj6p5/3mCGL\n\n✈
+ ️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f/Vj6p6/3mCGL\n\nMan
+ age my ECAL\nhttps://ecal.ai/f/Vj6p9/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio do Dragão
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260114T204500Z
+DTEND:20260114T224500Z
+SUMMARY:⚽️ FC Porto x SL Benfica | Taça de Portugal 
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:694bede454aa8861e14e314d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Taça de Portugal 25/26\n\nDatas e horas sujeitas a alteraçõe
+ s. Em caso de alterações\, o calendário irá atualizar automaticamente e
+ m breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟️ Bilhete
+ s\nhttps://ecal.ai/f/29QB3w/3mCGL\n\n🦅 Red Pass\nhttps://ecal.ai/f/29QB3
+ x/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/29QB3y/3mCGL\n\n📱SL Benfi
+ ca Official App\nhttps://ecal.ai/f/29QB3z/3mCGL\n\n🔥 Sócios Benfica\nht
+ tps://ecal.ai/f/29QB3B/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal.ai/f/
+ 29QB3C/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/29QB3D/3mCGL\n\n✈️ E
+ mirates – Patrocinador Oficial\nhttps://ecal.ai/f/29QB3F/3mCGL\n\nManage 
+ my ECAL\nhttps://ecal.ai/f/29QB3J/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio Municipal de Leiria – Dr. Magalhães Pessoa
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260107T200000Z
+DTEND:20260107T220000Z
+SUMMARY:⚽️ SL Benfica x SC Braga | Taça da Liga 
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:690d4eae54aa8835094d01c7
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Taça da Liga 25/26\n\nDatas e horas sujeitas a alterações. E
+ m caso de alterações\, o calendário irá atualizar automaticamente em br
+ eve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟️ Bilhetes\nh
+ ttps://ecal.ai/f/28x4Qn/3mCGL\n\n🦅 Red Pass\nhttps://ecal.ai/f/28x4Qp/3m
+ CGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/28x4Qq/3mCGL\n\n📱SL Benfica O
+ fficial App\nhttps://ecal.ai/f/28x4Qr/3mCGL\n\n🔥 Sócios Benfica\nhttps:
+ //ecal.ai/f/28x4Qs/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal.ai/f/28x4
+ Qt/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/28x4Qv/3mCGL\n\n✈️ Emira
+ tes – Patrocinador Oficial\nhttps://ecal.ai/f/28x4Qw/3mCGL\n\nManage my E
+ CAL\nhttps://ecal.ai/f/28x4Qz/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio do Sport Lisboa e Benfica
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20260103T180000Z
+DTEND:20260103T200000Z
+SUMMARY:⚽️ SL Benfica x Estoril Praia | Liga Portugal  - Jornada 17
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:686a7d6396ed780a434e1b3e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga Portugal 25/26 - Jornada 17\n\nDatas e horas sujeitas a al
+ terações. Em caso de alterações\, o calendário irá atualizar automati
+ camente em breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟
+ ️ Bilhetes\nhttps://ecal.ai/f/Vj6pb/3mCGL\n\n🦅 Red Pass\nhttps://ecal.
+ ai/f/Vj6pc/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/Vj6pd/3mCGL\n\n📱
+ SL Benfica Official App\nhttps://ecal.ai/f/Vj6pf/3mCGL\n\n🔥 Sócios Benf
+ ica\nhttps://ecal.ai/f/Vj6pg/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal
+ .ai/f/Vj6ph/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/Vj6pj/3mCGL\n\n✈
+ ️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f/Vj6pk/3mCGL\n\nMan
+ age my ECAL\nhttps://ecal.ai/f/Vj6pn/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio Municipal de Braga
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20251228T180000Z
+DTEND:20251228T200000Z
+SUMMARY:⚽️ SC Braga x SL Benfica | Liga Portugal  - Jornada 16
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:686a7d6396ed780a434e1b3f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga Portugal 25/26 - Jornada 16\n\nDatas e horas sujeitas a al
+ terações. Em caso de alterações\, o calendário irá atualizar automati
+ camente em breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟
+ ️ Bilhetes\nhttps://ecal.ai/f/Vj6pp/3mCGL\n\n🦅 Red Pass\nhttps://ecal.
+ ai/f/Vj6pq/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/Vj6pr/3mCGL\n\n📱
+ SL Benfica Official App\nhttps://ecal.ai/f/Vj6ps/3mCGL\n\n🔥 Sócios Benf
+ ica\nhttps://ecal.ai/f/Vj6pt/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal
+ .ai/f/Vj6pw/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/Vj6py/3mCGL\n\n✈
+ ️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f/Vj6pB/3mCGL\n\nMan
+ age my ECAL\nhttps://ecal.ai/f/Vj6pF/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:Estádio do Sport Lisboa e Benfica
+X-ECAL-SCHEDULE:649e3659f4b46e5c4a653187
+DTSTART:20251222T204500Z
+DTEND:20251222T224500Z
+SUMMARY:⚽️ SL Benfica x FC Famalicão | Liga Portugal  - Jornada 15
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:686a7d6396ed780a434e1b40
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Liga Portugal 25/26 - Jornada 15\n\nDatas e horas sujeitas a al
+ terações. Em caso de alterações\, o calendário irá atualizar automati
+ camente em breve. Com o apoio do Patrocinador Oficial\, Emirates.\n\n🎟
+ ️ Bilhetes\nhttps://ecal.ai/f/Vj6pG/3mCGL\n\n🦅 Red Pass\nhttps://ecal.
+ ai/f/Vj6pH/3mCGL\n\n🛒 Loja Online\nhttps://ecal.ai/f/Vj6pJ/3mCGL\n\n📱
+ SL Benfica Official App\nhttps://ecal.ai/f/Vj6pK/3mCGL\n\n🔥 Sócios Benf
+ ica\nhttps://ecal.ai/f/Vj6pL/3mCGL\n\n💳 Adeptos SL Benfica\nhttps://ecal
+ .ai/f/Vj6pM/3mCGL\n\n🏠 Alojamento\nhttps://ecal.ai/f/Vj6pN/3mCGL\n\n✈
+ ️ Emirates – Patrocinador Oficial\nhttps://ecal.ai/f/Vj6pP/3mCGL\n\nMan
+ age my ECAL\nhttps://ecal.ai/f/Vj6pS/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260101T210828Z
+DTSTAMP:20260101T210828Z
+LOCATION:A agenda do SL Benfica foi adicionada ao teu calendário
+X-ECAL-SCHEDULE:6956e1fa6ad1ed0002561e64
+DTSTART:20260101T212200Z
+DTEND:20260101T213700Z
+SUMMARY:Your Calendar is now Red and White
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6956e1fa92f6fd00024d714e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:Thank you for synchronizing your calendar. Chosen Benfica match
+ es will appear in your calendar soon.\n\n-----\n\nObrigado por subscreveres
+ . Os eventos irão aparecer no teu calendário em breve.\n\n-----\n\nGracia
+ s por sincronizar su calendario. Los partidos elegidos por el Benfica apare
+ cerán pronto en su calendario\n\n-----\n\nMerci d'avoir synchronisé votre
+  calendrier. Les matchs choisis de Benfica apparaîtront bientôt dans votr
+ e calendrier.\n\nManage my ECAL\nhttps://ecal.ai/f/29TVFn/3mCGL\n\n
+BEGIN:VALARM
+TRIGGER:-PT1M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
